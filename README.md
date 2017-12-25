@@ -51,9 +51,11 @@ Epitech headers contain login even if the username on the session is different
 Author
 
 montag_p
+
 Contributors
 
 lesell_b
+
 For any suggestion, do not hesitate to open an issue (in github)
 
 
